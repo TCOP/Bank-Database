@@ -1,8 +1,0 @@
-Name: Tyler Cain
-Account number: 1
-Balance: 380000000.00
-*****************************
-Name: Real Person
-Account number: 101
-Balance: 302.00
-*****************************
